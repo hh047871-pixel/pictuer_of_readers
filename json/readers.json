@@ -1,8 +1,15 @@
 [
   {
-    "id": "abd_albasit_tajweed",
-    "name": "عبد الباسط",
-    "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
-    "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+    "section": "ترتيل",
+    "country": "مصر",
+    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/egypt.jpg",
+    "readers": [
+      {
+        "id": "abd_albasit_tajweed",
+        "name": "عبد الباسط",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      }
+    ]
   }
 ]
