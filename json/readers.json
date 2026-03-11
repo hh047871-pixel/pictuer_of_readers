@@ -33,7 +33,7 @@
   {
     "section": "ترتيل",
     "country": "العراق",
-    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/iraq.png",
+    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/egypt.png",
     "readers": [
       {
         "id": "reader_iraq_1",
@@ -64,7 +64,7 @@
   {
     "section": "ترتيل",
     "country": "السعودية",
-    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/saudi.png",
+    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/egypt.png",
     "readers": [
       {
         "id": "reader_saudi_1",
@@ -95,7 +95,7 @@
   {
     "section": "نهب",
     "country": "سوريا",
-    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/syria.png",
+    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/egypt.png",
     "readers": [
       {
         "id": "reader_syria_1",
@@ -126,7 +126,7 @@
   {
     "section": "حدر",
     "country": "الأردن",
-    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/jordan.png",
+    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/egypt.png",
     "readers": [
       {
         "id": "reader_jordan_1",
@@ -157,7 +157,7 @@
   {
     "section": "تجويد",
     "country": "فلسطين",
-    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/palestine.png",
+    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/egypt.png",
     "readers": [
       {
         "id": "reader_palestine_1",
