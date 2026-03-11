@@ -9,6 +9,179 @@
         "name": "عبد الباسط",
         "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
         "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_egypt_2",
+        "name": "القارئ 2",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_egypt_3",
+        "name": "القارئ 3",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_egypt_4",
+        "name": "القارئ 4",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      }
+    ]
+  },
+  {
+    "section": "ترتيل",
+    "country": "العراق",
+    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/iraq.png",
+    "readers": [
+      {
+        "id": "reader_iraq_1",
+        "name": "القارئ 1",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_iraq_2",
+        "name": "القارئ 2",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_iraq_3",
+        "name": "القارئ 3",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_iraq_4",
+        "name": "القارئ 4",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      }
+    ]
+  },
+  {
+    "section": "ترتيل",
+    "country": "السعودية",
+    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/saudi.png",
+    "readers": [
+      {
+        "id": "reader_saudi_1",
+        "name": "القارئ 1",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_saudi_2",
+        "name": "القارئ 2",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_saudi_3",
+        "name": "القارئ 3",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_saudi_4",
+        "name": "القارئ 4",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      }
+    ]
+  },
+  {
+    "section": "نهب",
+    "country": "سوريا",
+    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/syria.png",
+    "readers": [
+      {
+        "id": "reader_syria_1",
+        "name": "القارئ 1",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_syria_2",
+        "name": "القارئ 2",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_syria_3",
+        "name": "القارئ 3",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_syria_4",
+        "name": "القارئ 4",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      }
+    ]
+  },
+  {
+    "section": "حدر",
+    "country": "الأردن",
+    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/jordan.png",
+    "readers": [
+      {
+        "id": "reader_jordan_1",
+        "name": "القارئ 1",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_jordan_2",
+        "name": "القارئ 2",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_jordan_3",
+        "name": "القارئ 3",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_jordan_4",
+        "name": "القارئ 4",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      }
+    ]
+  },
+  {
+    "section": "تجويد",
+    "country": "فلسطين",
+    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/palestine.png",
+    "readers": [
+      {
+        "id": "reader_palestine_1",
+        "name": "القارئ 1",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_palestine_2",
+        "name": "القارئ 2",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_palestine_3",
+        "name": "القارئ 3",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
+      },
+      {
+        "id": "reader_palestine_4",
+        "name": "القارئ 4",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
       }
     ]
   }
