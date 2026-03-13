@@ -15,51 +15,10 @@
         "name": "محمد صديق المنشاوي",
         "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
         "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
-      },
-      {
-        "id": "reader_egypt_3",
-        "name": "القارئ 3",
-        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
-        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
-      },
-      {
-        "id": "reader_egypt_4",
-        "name": "القارئ 4",
-        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
-        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
       }
-    ]
-  },
-  {
-    "section": "ترتيل",
-    "country": "العراق",
-    "flagUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/egypt.png",
-    "readers": [
-      {
-        "id": "reader_iraq_1",
-        "name": "القارئ 1",
-        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
-        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
-      },
-      {
-        "id": "reader_iraq_2",
-        "name": "القارئ 2",
-        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
-        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
-      },
-      {
-        "id": "reader_iraq_3",
-        "name": "القارئ 3",
-        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
-        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
-      },
-      {
-        "id": "reader_iraq_4",
-        "name": "القارئ 4",
-        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
-        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
-      }
+   
     ]
   }
+  
 
 ]
