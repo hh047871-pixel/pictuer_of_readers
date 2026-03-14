@@ -6,13 +6,13 @@
     "readers": [
       {
         "id": "abd_albasit_tajweed",
-        "name": "عبد الباسط",
+        "name": "عبد الباسط عبد الصمد",
         "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
         "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
       },
       {
         "id": "reader_egypt_2",
-        "name": "محمد صديق علي حسيت محمد لانب للااتنم بياا المنشاوي",
+        "name": "محمد صديق المنشاوي",
         "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/abdulbassit.jpg",
         "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/abd_albasit_tajweed/main"
       }
