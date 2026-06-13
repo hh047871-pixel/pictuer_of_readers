@@ -29,6 +29,12 @@
         "name": "محمد صديق المنشاوي",
         "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/mohammed-sedeq.jpg",
         "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/mohammed-sedeq/main"
+      },
+      {
+        "id": "reader_egypt_3",
+        "name": "مصطفى اسماعيل",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/mustafa_ismaeel.png",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/Mustafa_Ismaeel/main"
       }
     ]
   }
