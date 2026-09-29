@@ -35,6 +35,12 @@
         "name": "مصطفى اسماعيل",
         "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/mustafa_ismaeel.png",
         "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/Mustafa_Ismaeel/main"
+      },
+          {
+        "id": "reader_egypt_4",
+        "name": "محمود خليل الحصري",
+        "imageUrl": "https://raw.githubusercontent.com/hh047871-pixel/pictuer_of_readers/main/alhusary.png",
+        "baseUrl": "https://raw.githubusercontent.com/hh047871-pixel/al-husary/main"
       }
     ]
   }
